@@ -1,0 +1,55 @@
+# Developer Packages
+
+library(devtools)
+library(usethis)
+library(roxygen2)
+library(testthat)
+library(pkgdown)
+
+# Datasets packages
+
+library(causalOT)
+library(survival)
+library(causalPAF)
+library(evident)
+library(melt)
+library(sanon)
+
+
+Pph_df <- pph #1
+Colon_df <- colon #2
+Gbsg_df <- gbsg #3
+Mouse_df <- hoel #4
+Rotterdam_df <- rotterdam #5
+Udca_df <- udca2 #6
+Stroke_df <- strokedata #7
+SmokeH_df <- hsmoke #8
+Lead_df <- lead #9
+Periodontal_df <- periodontal #10
+Benzene_df <- benzene #11
+Cloth_df <- clothianidin #12
+Thiam_df <- thiamethoxam #13
+Pain_df <- cpain #14
+Resp_df <- resp #15
+Sebor_df <- sebor #16
+Skin_df <- skin #17
+
+
+save(Pph_df, file="data/Pph_df.rda")
+save(Colon_df, file="data/Colon_df.rda")
+save(Gbsg_df, file="data/Gbsg_df.rda")
+save(Mouse_df, file="data/Mouse_df.rda")
+save(Rotterdam_df, file="data/Rotterdam_df.rda")
+save(Udca_df, file="data/Udca_df.rda")
+save(Stroke_df, file="data/Stroke_df.rda")
+save(SmokeH_df, file="data/SmokeH_df.rda")
+save(Lead_df, file="data/Lead_df.rda")
+save(Periodontal_df, file="data/Periodontal_df.rda")
+save(Benzene_df, file="data/Benzene_df.rda")
+save(Cloth_df, file="data/Cloth_df.rda")
+save(Thiam_df, file="data/Thiam_df.rda")
+save(Pain_df, file="data/Pain_df.rda")
+save(Resp_df, file="data/Resp_df.rda")
+save(Sebor_df, file="data/Sebor_df.rda")
+save(Skin_df, file="data/Skin_df.rda")
+

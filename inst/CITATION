@@ -1,0 +1,12 @@
+bibentry(
+  bibtype = "Manual",
+  title = "ForCausality: A Curated Collection of Causal Inference Datasets and Tools",
+  author = person(
+    given = "Tomás",
+    family = "Valderrama",
+    comment = c(ORCID = "")
+  ),
+  year = 2025,
+  note = "R package version 0.1.0",
+  url = "https://github.com/Toby-codigos/ForCausality"
+)

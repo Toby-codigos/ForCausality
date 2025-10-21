@@ -1,0 +1,51 @@
+Main Package: ForCausality
+License: GPL-3
+
+Package: causalOT 1.0.2
+License: GPL (== 3.0)
+
+1.- pph - An external control trial of treatments for post-partum hemorrhage
+
+
+Package: survival 3.8-3
+License: LGPL (>= 2)
+
+1.- colon (cancer) - Chemotherapy for Stage B/C colon cancer
+2.- gbsg (cancer) - Breast cancer data sets used in Royston and
+3.- hoel (cancer) - Mouse cancer data
+4.- rotterdam (cancer) - Breast cancer data set used in Royston and Altman
+5.- udca2 (udca) - Data from a trial of usrodeoxycholic acid
+
+
+Package: causalPAF 1.2.5
+License: GPL (>= 2)
+
+1.- strokedata - Fictional ischemic stroke data case control data with risk factors, exposures and confounders
+
+Package: evident 1.0.4
+License: GPL-2
+
+1.- hsmoke - Smoking and Homocysteine
+2.- lead - Lead in Children
+3.- periodontal - Smoking and Periodontal Disease
+4.- benzene - Chromosome Damage from Exposure to Benzene
+
+
+Package: melt 1.11.4
+License: GPL (>= 2)
+
+1.- clothianidin - Clothianidin concentration in maize plants
+2.- thiamethoxam - Thiamethoxam applications in squash crops
+
+
+Package: sanon 1.6
+License: GPL (>= 2)
+
+1.- cpain - Chronic Pain Data
+2.- resp - Respiratory Disorder Data
+3.- sebor - Seborrheic Dermatitis Data
+4.- skin - Skin Condition Data
+
+
+
+
